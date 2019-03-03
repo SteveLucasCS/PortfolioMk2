@@ -1,0 +1,93 @@
+[
+  {
+    "title" :  "Webster and Halstead",
+    "description" : "Restaurant Point of Sale App",
+    "repoLink" : "https://github.com/SteveLucasCS/POS-System",
+    "deployedLink" : "https://radiant-beyond-45567.herokuapp.com/",
+    "imgSmall" : [
+      "./assets/images/pos_system/small/0.jpg",
+      "./assets/images/pos_system/small/1.jpg",
+      "./assets/images/pos_system/small/2.jpg",
+      "./assets/images/pos_system/small/3.jpg"
+    ],
+    "imgLarge" : [
+      "./assets/images/pos_system/large/0.jpg",
+      "./assets/images/pos_system/large/1.jpg",
+      "./assets/images/pos_system/large/2.jpg",
+      "./assets/images/pos_system/large/3.jpg"
+    ]
+  },
+  {
+    "title" : "Unearth",
+    "description" : "Everything you need to plan you next hiking trip with one, simple search.",
+    "deployedLink" : "https://unearth.business",
+    "repoLink" : "https://github.com/SteveLucasCS/unearth",
+    "imgSmall" : [
+      "./assets/images/unearth/small/0.jpg",
+      "./assets/images/unearth/small/1.jpg",
+      "./assets/images/unearth/small/2.jpg",
+      "./assets/images/unearth/small/3.jpg"
+    ],
+    "imgLarge" : [
+      "./assets/images/unearth/large/0.jpg",
+      "./assets/images/unearth/large/1.jpg",
+      "./assets/images/unearth/large/2.jpg",
+      "./assets/images/unearth/large/3.jpg"
+    ]
+  },
+  {
+    "title" : "Gooder Reads" ,
+    "description" : "A more modern, feature-filled, personalized application for finding your next favorite book, and rating those you've already read.",
+    "deployedLink" : "https://goodest-reads.herokuapp.com/",
+    "repoLink" : "https://github.com/SteveLucasCS/GooderReads",
+    "imgSmall" : [
+      "./assets/images/gooder_reads/small/0.jpg",
+      "./assets/images/gooder_reads/small/1.jpg",
+      "./assets/images/gooder_reads/small/2.jpg",
+      "./assets/images/gooder_reads/small/3.jpg"
+    ],
+    "imgLarge" : [
+      "./assets/images/gooder_reads/large/0.jpg",
+      "./assets/images/gooder_reads/large/1.jpg",
+      "./assets/images/gooder_reads/large/2.jpg",
+      "./assets/images/gooder_reads/large/3.jpg"
+    ]
+  },
+  {
+    "title" : "News Scraper" ,
+    "description" : "An App that pulls all the latest headlines, and lets users share their opinion with through comments.",
+    "deployedLink" : "https://serene-shore-37870.herokuapp.com/",
+    "repoLink" : "https://github.com/SteveLucasCS/NewsScraper",
+    "imgSmall" : [
+      "./assets/images/news_scraper/small/0.jpg",
+      "./assets/images/news_scraper/small/1.jpg",
+      "./assets/images/news_scraper/small/2.jpg",
+      "./assets/images/news_scraper/small/3.jpg"
+    ],
+    "imgLarge" : [
+      "./assets/images/news_scraper/large/0.jpg",
+      "./assets/images/news_scraper/large/1.jpg",
+      "./assets/images/news_scraper/large/2.jpg",
+      "./assets/images/news_scraper/large/3.jpg"
+    ]
+  },
+  {
+    "title" : "LIRI Search (CLI)" ,
+    "description" : "Search songs, movies, and band/artist venues with this CLI application.",
+    "deployedLink" : "#",
+    "repoLink" : "https://github.com/SteveLucasCS/LIRI",
+    "imgSmall" : [
+      "./assets/images/liri/small/0.jpg",
+      "./assets/images/liri/small/1.jpg",
+      "./assets/images/liri/small/2.jpg",
+      "./assets/images/liri/small/3.jpg"
+    ],
+    "imgLarge" : [
+      "./assets/images/liri/large/0.jpg",
+      "./assets/images/liri/large/1.jpg",
+      "./assets/images/liri/large/2.jpg",
+      "./assets/images/liri/large/3.jpg"
+    ]
+  }
+
+]
